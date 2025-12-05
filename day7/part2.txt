@@ -1,0 +1,3 @@
+per la parte 2 si può usare lo stesso codice della parte 1
+si deve sostituire al file di input alla riga 55 che è 19138 -> b il valore
+16076 -> b
